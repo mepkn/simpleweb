@@ -1,0 +1,21 @@
+body {
+    font-family: "Helvetica", "Arial", sans-serif;
+    line-height: 1.5;
+    color: #566b78;
+    margin: 0 auto;
+    padding: 4em 1em;
+    max-width: 50em;
+}
+
+h1,
+h2,
+strong {
+    color: #333;
+    margin-top: 1em;
+    padding-top: 1em;
+}
+
+.card {
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 2px 16px;
+}
